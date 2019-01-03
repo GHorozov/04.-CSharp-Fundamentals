@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.App", "Forum.App\Forum.App.csproj", "{E1AE0764-19E9-469A-8E3E-C544D35C0FDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.Models", "Forum.Models\Forum.Models.csproj", "{04F5659D-FF64-4B99-9F96-189AC1D180C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Data", "Forum.Data\Forum.Data.csproj", "{13CB768E-C381-4ED1-8991-1964EF88D7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AE0764-19E9-469A-8E3E-C544D35C0FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AE0764-19E9-469A-8E3E-C544D35C0FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AE0764-19E9-469A-8E3E-C544D35C0FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AE0764-19E9-469A-8E3E-C544D35C0FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F5659D-FF64-4B99-9F96-189AC1D180C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F5659D-FF64-4B99-9F96-189AC1D180C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F5659D-FF64-4B99-9F96-189AC1D180C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F5659D-FF64-4B99-9F96-189AC1D180C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CB768E-C381-4ED1-8991-1964EF88D7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CB768E-C381-4ED1-8991-1964EF88D7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CB768E-C381-4ED1-8991-1964EF88D7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CB768E-C381-4ED1-8991-1964EF88D7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4279ACAC-E6EB-43F9-9D9A-3D0A3B9CA5C4}
+	EndGlobalSection
+EndGlobal
